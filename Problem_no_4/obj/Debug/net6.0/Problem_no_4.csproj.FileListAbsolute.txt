@@ -1,0 +1,15 @@
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\bin\Debug\net6.0\Problem_no_4.exe
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\bin\Debug\net6.0\Problem_no_4.deps.json
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\bin\Debug\net6.0\Problem_no_4.runtimeconfig.json
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\bin\Debug\net6.0\Problem_no_4.dll
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\bin\Debug\net6.0\Problem_no_4.pdb
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\Problem_no_4.csproj.AssemblyReference.cache
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\Problem_no_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\Problem_no_4.AssemblyInfoInputs.cache
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\Problem_no_4.AssemblyInfo.cs
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\Problem_no_4.csproj.CoreCompileInputs.cache
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\Problem_no_4.dll
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\refint\Problem_no_4.dll
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\Problem_no_4.pdb
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\Problem_no_4.genruntimeconfig.cache
+C:\Users\Asad\Documents\Devskill assignment\Assignment_No_1\Problem_no_4\obj\Debug\net6.0\ref\Problem_no_4.dll
